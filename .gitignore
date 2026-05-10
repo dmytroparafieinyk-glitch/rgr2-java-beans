@@ -3,3 +3,4 @@ build/
 git-probe/
 git-manual-test/
 *.class
+README.md
