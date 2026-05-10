@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: RGR2 JavaBeans build
+
+Name: mybeans/DataSheetTable.class
+Java-Bean: True
+
+Name: mybeans/DataSheetGraph.class
+Java-Bean: True
+
